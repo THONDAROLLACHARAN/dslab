@@ -30,7 +30,7 @@ int main() {
 		printf("%d ", s.marks[i]);
 	}
 	printf("\nTotal: %d\n", s.total);
-	 getch();
 	return 0;
 
 }
+
